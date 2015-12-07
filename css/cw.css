@@ -1,0 +1,55 @@
+body
+{
+    background: #FFF;
+}
+
+#pageHome
+{
+	width: 410px;
+	height: 300px;
+	margin: 0px auto;
+    margin-top: 200px;
+    background-color: #FFF;
+}
+
+
+#pageHome img{
+    border: 1px solid black;
+}
+#pageHome h5{
+    font-size: 15px;
+    letter-spacing: 6px;
+    
+}
+#pageHome ul{
+    list-style-type:none
+}
+#pageHome a{
+    font-size:12px;
+    text-decoration: none;
+    padding: 5px;
+    letter-spacing: 3px;
+    
+}
+
+#pageHome a:hover{
+    text-decoration: underline;
+}
+
+
+
+h1, h2, h3, p, li, ul, form{
+	font-family: Adobe Caslon Pro;
+	color: #000000;
+	
+}
+
+a {
+	color: #000;
+}
+
+
+
+
+
+
